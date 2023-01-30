@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maggy</h1>
-<h3 align="center">A CS student from Italy</h3>
+<h1 align="left">Hi 👋, I'm Maggy</h1>
+<h3 align="left">A CS student from Italy</h3>
 
 - 📝 I write IT articles on [https://terminus.cobianchi.it/](https://terminus.cobianchi.it/)
 
