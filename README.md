@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Design**
 
-- ⚡ **Why did the programmer quit his job? Because he didn't get arrays.**
+- ⚡ Why did the programmer quit his job? Because he didn't get arrays.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
