@@ -1,11 +1,13 @@
 <h1 align="center">Hello world! I'm Maggy 👋</h1>
-<h3 align="center">A CS student from Italy</h3>
+<h3 align="center">A CS student from Italy </h3>
 
-- 🌱 I’m currently learning **Front-end Web Development**
+- 🌱 I’m currently learning **Computer Engineering** and **Project Management**
+
+- 💻 Check out my Portfolio at https://maggy.dev/
 
 - 📝 I write IT articles on [https://terminus.cobianchi.it/](https://terminus.cobianchi.it/)
 
-- 💬 Ask me about **Web Design**
+- 💬 Ask me about **Web Design** and **AI**
 
 - ⚡ Why did the programmer quit his job? Because he didn't get arrays.
 
